@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">小管家</string>
     <string name="welcome">你好,我是你的小管家</string>
-    <string name="account">记账</string>
+    <string name="account">记一笔</string>
 </resources>
